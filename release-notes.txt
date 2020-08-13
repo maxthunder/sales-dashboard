@@ -2,5 +2,15 @@
 https://www.telerik.com/blogs/lets-build-a-sales-dashboard-with-react
 
 
-// This installs the necessary packages (Kendo Material Theme, KendoReact Layout Components, KendoReact PDF [requires Kendo Drawing], KendoReact Buttons, Bootstrap 4 Grid)
-yarn add @progress/kendo-theme-material @progress/kendo-react-layout @progress/kendo-react-pdf @progress/kendo-drawing @progress/kendo-react-buttons @progress/kendo-react-ripple bootstrap-4-grid
+// This installs the necessary packages (Kendo Material Theme, KendoReact Layout Components, KendoReact PDF [requires Kendo Drawing], KendoReact Buttons, Kendo React Ripple, Bootstrap 4 Grid)
+yarn add @progress/kendo-theme-material @progress/kendo-react-layout @progress/kendo-react-pdf @progress/kendo-drawing @progress/kendo-react-buttons @progress/kendo-react-ripple @progress/kendo-react-ripple bootstrap-4-grid
+
+yarn add
+    @progress/kendo-theme-material
+    @progress/kendo-react-layout
+    @progress/kendo-react-pdf
+    @progress/kendo-drawing
+    @progress/kendo-react-buttons
+    @progress/kendo-react-ripple
+    @progress/kendo-react-ripple
+    bootstrap-4-grid
