@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
+// import ReactDOM from 'react-dom';
 import { Button } from '@progress/kendo-react-buttons';
-import { savePDF } from '@progress/kendo-react-pdf';
+// import { savePDF } from '@progress/kendo-react-pdf';
 import '@progress/kendo-theme-material/dist/all.css';
 import './App.css';
 import 'bootstrap-4-grid/css/grid.min.css';
